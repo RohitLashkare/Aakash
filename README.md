@@ -1,4 +1,4 @@
 # Aakash
 It is my first repository.
 <br>
-Author- Rohit Lashkare
+Author- Rohit Lashkare (Modern College)
